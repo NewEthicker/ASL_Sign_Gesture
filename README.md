@@ -12,7 +12,7 @@ The code uses the following libraries:
 ## CVZone #
 ## Mediapipe # 
 ## NumPy #
-## Math#
+## Math #
 To use this code, make sure you have the required libraries installed and the pre-trained neural network model and labels files available in the specified folders.
 
 This code can be extended to recognize and classify other types of hand gestures, as well as to perform other tasks such as gesture-based control of a device or application.
