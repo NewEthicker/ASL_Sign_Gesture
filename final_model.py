@@ -6,10 +6,10 @@ import time
 import numpy as np
 import math
 
-url = "https://10.58.205.145:8080/video"
+url = "https://10.58.205.145:8080/video"  # change it from your ip of webcame, dont have app: https://play.google.com/store/apps/details?id=com.pas.webcam
 cap = cv2.VideoCapture(url)
 detector = HandDetector(maxHands=1)
-classifier = Classifier("Model/A_to_D_keras_model.h5","Model/labels.txt")
+classifier = Classifier("Model/A_to_D_keras_model.h5","Model/A_to_D_labels.txt") # Keras Models trained by me :)
 offset = 20
 imgSize = 300
 
