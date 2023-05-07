@@ -1,4 +1,4 @@
-# Hand Gesture Recognition using CVZone
+# ASL Hand Gesture Recognition using CVZone
 
 https://user-images.githubusercontent.com/88562515/236702632-293c8314-7898-4b80-8fa8-2310b63bbb1f.mp4
 
