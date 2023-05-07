@@ -8,7 +8,7 @@ The code captures video from a camera (in this case, a mobile device camera) usi
 
 The code uses the following libraries:
 
-# OpenCV (cv2) #
+## OpenCV (cv2) #
 ## CVZone #
 ## Mediapipe # 
 ## NumPy #
