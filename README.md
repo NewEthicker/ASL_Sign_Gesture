@@ -1,6 +1,6 @@
 # Hand Gesture Recognition using CVZone
 
-https://user-images.githubusercontent.com/88562515/236702599-6b263f93-b9ba-4a23-8b2e-3a4ae8c579b9.mp4
+https://user-images.githubusercontent.com/88562515/236702632-293c8314-7898-4b80-8fa8-2310b63bbb1f.mp4
 
 This code uses the CVZone library to detect hand gestures and recognize them using a pre-trained neural network model. The hand detection is performed using the Mediapipe library, which provides a fast and accurate way to track hand landmarks in real-time video.
 
