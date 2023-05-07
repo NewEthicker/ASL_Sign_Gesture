@@ -5,11 +5,11 @@ The code captures video from a camera (in this case, a mobile device camera) usi
 
 The code uses the following libraries:
 
-#OpenCV (cv2)#
-#CVZone#
-#Mediapipe#
-#NumPy#
-#Math#
+# OpenCV (cv2) #
+# CVZone #
+# Mediapipe # 
+# NumPy #
+# Math#
 To use this code, make sure you have the required libraries installed and the pre-trained neural network model and labels files available in the specified folders.
 
 This code can be extended to recognize and classify other types of hand gestures, as well as to perform other tasks such as gesture-based control of a device or application.
